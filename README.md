@@ -7,7 +7,7 @@ Couldn't pitch the idea in 3 Minutes after tried to code this masterpiece(Joke!)
 No license idk
 
 
-#TODOS
-[] -  Remake Admin Panel with Next.js , Tailwind and Typescript
-[] -  Work with people who actually know how to use React Native ?
-[] -  Stop being Toxic
+# TODOS
+ [] -  Remake Admin Panel with Next.js , Tailwind and Typescript
+ [] -  Work with people who actually know how to use React Native ?
+ [] -  Stop being Toxic
