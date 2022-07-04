@@ -8,6 +8,6 @@ No license idk
 
 
 # TODOS
- [] -  Remake Admin Panel with Next.js , Tailwind and Typescript
- [] -  Work with people who actually know how to use React Native ?
- [] -  Stop being Toxic
+ []   Remake Admin Panel with Next.js , Tailwind and Typescript
+ []   Work with people who actually know how to use React Native ?
+ []   Stop being Toxic
